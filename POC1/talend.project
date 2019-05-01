@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_NrbTEGvYEemtdtBA0tkH7Q" label="POC1" language="java" technicalLabel="POC1" author="_NrbTEWvYEemtdtBA0tkH7Q" productVersion="Talend Cloud API Services Platform-7.1.1.20190228_0243-patch" url="{&quot;location&quot;:&quot;https://github.com/mattmccartneyqa/qa-talend.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+  <TalendProperties:Project xmi:id="_NrbTEGvYEemtdtBA0tkH7Q" label="POC1" language="java" technicalLabel="POC1" author="_NrbTEWvYEemtdtBA0tkH7Q" productVersion="Talend Cloud API Services Platform-7.1.1.20190228_0243-patch" url="{&quot;location&quot;:&quot;https://github.com/mattmccartneyqa/qa-talend.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_N6KSoGvYEemtdtBA0tkH7Q" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_NrbTEWvYEemtdtBA0tkH7Q" login="barrygreen@qa1.com" firstName="Barry" lastName="Green" type="DQ"/>
